@@ -1,0 +1,21 @@
+#Task 1
+
+a=input('Enter the first number: ')
+b=input('Enter the second number: ')
+a=float(a)
+b=float(b)
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+print('Addition: ',c)
+print('Subtraction: ',d)
+print('Multiplication: ',e)
+print('Division: ',f)
+
+#Task 2
+
+a=input("Enter your first name: ")
+b=input("Enter your last name: ")
+c=a+""+b
+print(f"Hello, {c}! welcome to the python program.")
